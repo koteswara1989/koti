@@ -2,3 +2,4 @@ Staging Area
 Hello everyone
 welcome to all
 good night 
+hello all
